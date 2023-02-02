@@ -9,7 +9,7 @@
 
 - 📫 Reach me at : **lakshminagameghana.polisetty@sjsu.edu**
 
-- 📄 Previous Experience : Business Intelligence Analyst at High Radius
+- 📄 Previous Experience : Data Analyst at High Radius
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
